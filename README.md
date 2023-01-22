@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**Dominik-Stasiak/Dominik-Stasiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Dominik Stasiak, Computer Engineering student from Poland.
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-stasiak-820a0a262/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://www.dstasiak.pl/)
+<img src="https://komarev.com/ghpvc/?username=Dominik-Stasiak" alt="https://github.com/Dominik-Stasiak" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+<h2 align="center"> About me </h2>
+<p align="center">
+  <samp>Student of the Computer Engineering program. Upon completion of my studies this year, I plan to pursue a Master's degree. While studying, I gained a thorough understanding of a variety of programming language and industry standards. I am looking forward to becoming a backend developer in the future as part of my career goals.
+  </samp>
+</p>
+
+##
+&nbsp;
+
+- 🔭 I’m currently working on finding a backend developer job
+- 🌱 I’m currently learning .NET / C# // SPRING / JAVA
+- 💬 Ask me about details
+- 📫 How to reach me: Linkedin above
+- 💪 General skills: Fast learner, Punctual, Reliable, Teamwork, Patient, Responsible
+- 📜 Actually: Waiting for my engineering thesis defence date
+
+##
+&nbsp;
+
+ |  Category | Skills |
+| ------------ | ------------ |
+| 💻Programming Languages | Kotlin, Java, C#, C++ |
+| 🌐Databases | MSSQL, MySQL |
+| 🛞Architecture & Desing Pattern  | MVVM, MVC, Clean Archttecture |
+| 🧑‍💻Final course work |  Created a mobile application for tracking fitness training progress written for Android. To achieve wanted results during work on the app, I used use MVVM pattern and the Kotlin programming language |
