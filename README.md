@@ -30,5 +30,5 @@
 | ------------ | ------------ |
 | 💻Programming Languages | Kotlin, Java, C#, C++ |
 | 🌐Databases | MSSQL, MySQL |
-| 🛞Architecture & Desing Pattern  | MVVM, MVC, Clean Archttecture |
+| 🛞Architecture & Desing Pattern  | MVVM, MVC, Clean Architecture |
 | 🧑‍💻Final course work |  Created a mobile application for tracking fitness training progress written for Android. To achieve wanted results during work on the app, I used use MVVM pattern and the Kotlin programming language |
