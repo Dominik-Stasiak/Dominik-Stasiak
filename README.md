@@ -17,7 +17,7 @@
 &nbsp;
 
 - 🔭 I’m currently working on finding a backend developer job
-- 🌱 I’m currently learning .NET / C# // SPRING / JAVA
+- 🌱 I’m currently learning  C# / C++ // SPRING / JAVA
 - 💬 Ask me about details
 - 📫 How to reach me: Linkedin above
 - 💪 General skills: Fast learner, Punctual, Reliable, Teamwork, Patient, Responsible
