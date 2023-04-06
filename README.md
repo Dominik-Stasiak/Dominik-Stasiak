@@ -17,7 +17,7 @@
 &nbsp;
 
 - 🔭 I’m currently working on finding a backend developer job
-- 🌱 I’m currently learning  C# / C++ // SPRING / JAVA
+- 🌱 I’m currently learning  C++ / Python
 - 💬 Ask me about details
 - 📫 How to reach me: Linkedin above
 - 💪 General skills: Fast learner, Punctual, Reliable, Teamwork, Patient, Responsible
@@ -28,7 +28,7 @@
 
  |  Category | Skills |
 | ------------ | ------------ |
-| 💻Programming Languages | Kotlin, Java, C#, C++ |
+| 💻Programming Languages | Kotlin, Java, C#, C++, Python |
 | 🌐Databases | MSSQL, MySQL |
 | 🛞Architecture & Desing Pattern  | MVVM, MVC, Clean Architecture |
 | 🧑‍💻Final course work |  Created a mobile application for tracking fitness training progress written for Android. To achieve wanted results during work on the app, I used use MVVM pattern and the Kotlin programming language |
