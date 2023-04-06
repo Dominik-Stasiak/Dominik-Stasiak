@@ -21,7 +21,7 @@
 - 💬 Ask me about details
 - 📫 How to reach me: Linkedin above
 - 💪 General skills: Fast learner, Punctual, Reliable, Teamwork, Patient, Responsible
-- 📜 Actually: Waiting for my engineering thesis defence date
+- 📜 Actually: Training skill
 
 ##
 &nbsp;
