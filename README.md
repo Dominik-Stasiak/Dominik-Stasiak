@@ -11,10 +11,7 @@
 <p align="center">
   <samp>Bachelor of the Computer Engineering program. While studying, I gained a thorough
 understanding of a variety of programming language and industry standards. I am looking
-forward to becoming a backend developer in the future as part of my career goals.
-
-For my engineer thesis I created a mobile application for tracking fitness training progress,
-written for Android. To achieve wanted results during work on the app, I used use
+forward to becoming a backend developer in the future as part of my career goals. For my engineer thesis I created a mobile application for tracking fitness training progress, written for Android. To achieve wanted results during work on the app, I used use
 MVVM pattern and the Kotlin programming language.
   </samp>
 </p>
@@ -34,7 +31,7 @@ MVVM pattern and the Kotlin programming language.
 
  |  Category | Skills |
 | ------------ | ------------ |
-| 💻Programming Languages | Kotlin, Java, C#, C++, Python |
+| 💻Programming Languages | Kotlin, Java, C++, Python |
 | 🌐Databases | MSSQL, MySQL |
 | 🛞Architecture & Desing Pattern  | MVVM, MVC, Clean Architecture |
 | 🧑‍💻Final course work |  Created a mobile application for tracking fitness training progress written for Android. To achieve wanted results during work on the app, I used use MVVM pattern and the Kotlin programming language |
