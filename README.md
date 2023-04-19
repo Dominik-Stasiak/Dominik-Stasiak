@@ -9,7 +9,13 @@
 
 <h2 align="center"> About me </h2>
 <p align="center">
-  <samp>Student of the Computer Engineering program. Upon completion of my studies this year, I plan to pursue a Master's degree. While studying, I gained a thorough understanding of a variety of programming language and industry standards. I am looking forward to becoming a backend developer in the future as part of my career goals.
+  <samp>Bachelor of the Computer Engineering program. While studying, I gained a thorough
+understanding of a variety of programming language and industry standards. I am looking
+forward to becoming a backend developer in the future as part of my career goals.
+
+For my engineer thesis I created a mobile application for tracking fitness training progress,
+written for Android. To achieve wanted results during work on the app, I used use
+MVVM pattern and the Kotlin programming language.
   </samp>
 </p>
 
@@ -17,11 +23,11 @@
 &nbsp;
 
 - 🔭 I’m currently working on finding a backend developer job
-- 🌱 I’m currently learning  C++ / Python
+- 🌱 I’m currently learning  Java / Python
 - 💬 Ask me about details
 - 📫 How to reach me: Linkedin above
 - 💪 General skills: Fast learner, Punctual, Reliable, Teamwork, Patient, Responsible
-- 📜 Actually: Training skill
+- 📜 Actually: Learning new skills and incremental addition of frameworks
 
 ##
 &nbsp;
