@@ -32,6 +32,6 @@ MVVM pattern and the Kotlin programming language.
  |  Category | Skills |
 | ------------ | ------------ |
 | 💻Programming Languages | Kotlin, Java, C++, Python |
-| 🌐Databases | MSSQL, MySQL |
+| 🌐Databases | PostgreSQL, MSSQL, MySQL |
 | 🛞Architecture & Desing Pattern  | MVVM, MVC, Clean Architecture |
 | 🧑‍💻Final course work |  Created a mobile application for tracking fitness training progress written for Android. To achieve wanted results during work on the app, I used use MVVM pattern and the Kotlin programming language |
